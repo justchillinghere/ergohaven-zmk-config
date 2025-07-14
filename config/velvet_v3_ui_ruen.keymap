@@ -26,7 +26,7 @@
 
         cmben {
             bindings = <&layer_en>;
-            key-positions = <3 4>;
+            key-positions = <4 3>;
             layers = <1>;
         };
 
